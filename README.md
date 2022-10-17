@@ -1,4 +1,4 @@
 # QuerySystem
-Source code of the SQL#-based system
+This repository contains the source code of the SQL#-based system.
 
-The system is deployed at https://querydebugger.github.io/
+The system is deployed at https://querydebugger.github.io/.
