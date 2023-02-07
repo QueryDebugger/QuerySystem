@@ -8,14 +8,14 @@ The system aims to improve the maintainability of complex database queries. To a
 - **Query debugging**: The system compiles a SQL# program into multiple SQL programs that retrieve the intermediate tables involved in the process of constructing the SQL# program to help developers debug complex queries.
 
 ## Run system
-1. Download the code in the `src` directory
+1. Download the `src` directory
 2. Enter the `src` directory
 3. Download Node.js and run the `npm install` command to install the packages required by the system
 4. Run the `yarn start` command
 5. Open the browser and enter http://localhost:3000/
 
 ## Build system
-1. Download the code in the `src` directory
+1. Download the `src` directory
 2. Enter the `src` directory
 3. Run the `yarn build` command
 
