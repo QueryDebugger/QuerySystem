@@ -1,6 +1,6 @@
 # SQL#-based System for Maintainable Database Queries
 
-![System Interface of the SQL#-based system](docs/interface.jpgs)
+![System Interface of the SQL#-based system](https://github.com/QueryDebugger/QuerySystem/raw/main/docs/interface.jpg)
 
 
 The system aims to improve the maintainability of complex database queries. To achieve the goal, we design a new query language called SQL# and develop the system in this repository.
