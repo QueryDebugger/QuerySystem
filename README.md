@@ -10,8 +10,9 @@ The system aims to improve the maintainability of complex database queries. To a
 ## Run system
 1. Download the code in the `src` directory
 2. Enter the `src` directory
-3. Download Node.js, and run the `npm install ` command below to install the needed packages
-4. Run the `yarn start` command and open the browser and enter http://localhost:3000/
+3. Download Node.js and run the `npm install` command to install the packages required by the system
+4. Run the `yarn start` command
+5. Open the browser and enter http://localhost:3000/
 
 ## Build system
 1. Download the code in the `src` directory
@@ -23,7 +24,7 @@ Thus, the content in the `build` directory is an executable version of the syste
 An executable version built by us is deployed at https://querydebugger.github.io/.
 
 ## Instruction Manual
-User Instruction for the SQL# Language and the SQL#-based System is available at https://github.com/QueryDebugger/QuerySystem/blob/main/docs/1_InstructionManual.pdf.
+User Instruction for the SQL# language and the SQL#-based system is available at https://github.com/QueryDebugger/QuerySystem/blob/main/docs/1_InstructionManual.pdf.
 
 ## Demo
 A demo video for the system is available at https://github.com/QueryDebugger/QuerySystem/releases/download/1.0/ExplanatoryVideo.mp4.
