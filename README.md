@@ -1,4 +1,4 @@
-# SQL#-based System for Maintainable Database Queries
+# The SQL#-based System for Maintainable Database Queries
 
 ![System Interface of the SQL#-based system](https://github.com/QueryDebugger/QuerySystem/raw/main/docs/interface.jpg)
 
