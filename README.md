@@ -25,4 +25,4 @@ Thus, the content in the `build` directory is an executable version of the syste
 User Instruction for the SQL# language and the SQL#-based system is available at https://github.com/QueryDebugger/QuerySystem/blob/main/docs/1_InstructionManual.pdf.
 
 ## Demo
-A demo video for the system is available at https://github.com/QueryDebugger/QuerySystem/releases/download/1.0/ExplanatoryVideo.mp4.s
+A demo video for the system is available at https://github.com/QueryDebugger/QuerySystem/releases/download/1.0/ExplanatoryVideo.mp4.
