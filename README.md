@@ -2,7 +2,6 @@
 
 ![System Interface of the SQL#-based system](https://github.com/QueryDebugger/QuerySystem/raw/main/docs/interface.jpg)
 
-
 The system aims to improve the maintainability of complex database queries. To achieve this goal, we design a new query language called SQL# and develop two features for the system:
 - **Query visualization**: The system visualizes a SQL# program to help developers understand complex queries. 
 - **Query debugging**: The system compiles a SQL# program into multiple SQL programs that retrieve the intermediate tables involved in the process of constructing the SQL# program to help developers debug complex queries.
@@ -21,7 +20,7 @@ The system aims to improve the maintainability of complex database queries. To a
 
 Thus, the content in the `build` directory is an executable version of the system. An executable version built by us is deployed at https://querydebugger.github.io/.
 
-## Instruction Manual
+## Instruction manual
 User Instruction for the SQL# language and the SQL#-based system is available at https://github.com/QueryDebugger/QuerySystem/blob/main/docs/1_InstructionManual.pdf.
 
 ## Demo
